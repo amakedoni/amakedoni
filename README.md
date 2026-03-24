@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on [Finly](https://github.com/amakedoni) — a personal finance management app built with FastAPI & PostgreSQL<br><br>👯 I'm looking to collaborate on full-stack or ML projects <br><br>🤝 I'm looking for help with ML model integration into production apps and Kubernetes/cloud deployment<br><br>🌱 I'm currently learning Machine Learning (TensorFlow, scikit-learn) and advanced backend architecture<br><br>💬 Ask me about Coding and if you want to talk about ML<br><br>⚡️ Fun fact: I'm a finalist of the ITMO olympiad and once built a cubesat prototype for message decryption at a Moscow pre-professional olympiad 🛰and im studying in MAI
+🔭 I'm currently working on [Finly](https://github.com/amakedoni) — a personal finance management PWA app built with TypeScript and REACT<br><br>👯 I'm looking to collaborate on full-stack or ML projects <br><br>🤝 I'm looking for help with ML model integration into production apps and Kubernetes/cloud deployment<br><br>🌱 I'm currently learning Machine Learning (TensorFlow, scikit-learn) and advanced backend architecture<br><br>💬 Ask me about Coding and if you want to talk about ML<br><br>⚡️ Fun fact: I'm a finalist of the ITMO olympiad and once built a cubesat prototype for message decryption at a Moscow pre-professional olympiad 🛰 and im studying in MAI
 
 
 ## 🌐 Socials:
